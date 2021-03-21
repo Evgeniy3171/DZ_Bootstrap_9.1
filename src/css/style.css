@@ -1,0 +1,71 @@
+body {
+    font-family: sans-serif;
+    color: #32325F;
+
+}
+.main-image img {
+    min-width: 100%;
+}
+a img {
+    width: 27px;
+}
+.subtittle {
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+.tittle {
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 26px;
+}
+.price {
+    font-size: 48px;
+    font-weight: 400;
+}
+.main {
+    margin-top: 100px;
+}
+.buttons {
+    margin-top: 30px;
+}
+.hero {
+    padding-top: 70px;
+    padding-bottom: 190px;
+}
+.section {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.section-subtittle {
+    margin-top: 94px;
+    margin-bottom: 29px;
+}
+.section-tittle {
+    margin-bottom: 99px;
+}
+.about-section {
+    margin-top: 99px;
+}
+.people-tittle {
+    margin-bottom: 64px;
+}
+.footer {
+    margin-top: 112px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    background-color: #32325F;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 1.4;
+}
+.footer a {
+    text-decoration: none;
+    color: #ffffff;
+    margin-bottom: 7px;
+}
+.footer h4 {
+    margin-bottom: 40px;
+    font-size: 24px;
+    font-weight: 700;
+}
